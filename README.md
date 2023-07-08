@@ -2,6 +2,9 @@
 Overview
 This project focuses on automating the data analysis process by utilizing Databricks and Snowflake. It involves storing data in an AWS S3 bucket, extracting and transforming the data using Databricks and PySpark, loading the processed data into Snowflake, and performing analytical queries to generate insights from the Olympic dataset.
 
+<img width="537" alt="249700063-f68bbb9d-0d8f-4f5d-b158-002a5b8c3fe5" src="https://github.com/mvmananvora/Olympic-Dataset-Analysis/assets/64776101/3be94eca-6728-4e08-aa1d-30e926568d44">
+
+
 Key Features
 1. Data Storage: The project leverages the scalability and durability of AWS S3 to securely store the Olympic dataset. Users can access and manage their data in the S3 bucket.
 2. Data Extraction and Transformation: Databricks is employed as a powerful tool to connect to the S3 bucket and extract the Olympic dataset. PySpark, a Python library compatible with Databricks, is used to efficiently transform and process the data, ensuring its readiness for analysis.
